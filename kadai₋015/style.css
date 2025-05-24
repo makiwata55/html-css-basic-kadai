@@ -6,12 +6,12 @@ body {
   font-family: "Arial", "Meiryo", sans-serif;
 }
 h1 {
-  font-family: "Josefin Sanssans" , serif;
+  font-family: "Josefin Sans" , serif;
   text-align: center;
   text-shadow: 2px 2px 5px grey;
   font-size: 2em;
   letter-spacing: 1.2em;
-  border-bottom: solid 1px rgb(115, 115, 114);
+  border-bottom: solid 3px rgb(115, 115, 114);
 }
 .blue {
   color: skyblue;
