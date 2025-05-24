@@ -15,9 +15,11 @@ h1 {
 }
 .blue {
   color: skyblue;
+  text-align: center;
 }
 .pink {
   color: rgb(255, 192, 203);
+  text-align: center;
 }
 p {
   text-align: center;
