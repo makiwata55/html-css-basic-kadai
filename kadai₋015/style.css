@@ -23,7 +23,8 @@ h1 {
 }
 p {
   text-align: center;
-#basic .text-bold {
-    font-weight: bold;
 }
+#basic .text-bold {
+  font-weight: bold;
+  text-align: center;
 }
